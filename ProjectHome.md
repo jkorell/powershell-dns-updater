@@ -1,0 +1,1 @@
+Just a simple Powershell script made to be ran via Jenkins, takes some inputs from the web interface and gets executed on a remote Windows server, creates or updates DNS records.
